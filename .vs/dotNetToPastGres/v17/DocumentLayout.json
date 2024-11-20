@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\INTERN\\.Net\\dotnetToPostgres\\New folder\\dotNetToPastGres\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF56B8C0-8182-4729-92D0-BCE5CF64BDF0}|dotNetToPastGres\\dotNetToPastGres.csproj|d:\\intern\\.net\\dotnettopostgres\\new folder\\dotnettopastgres\\dotnettopastgres\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF56B8C0-8182-4729-92D0-BCE5CF64BDF0}|dotNetToPastGres\\dotNetToPastGres.csproj|solutionrelative:dotnettopastgres\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF56B8C0-8182-4729-92D0-BCE5CF64BDF0}|dotNetToPastGres\\dotNetToPastGres.csproj|d:\\intern\\.net\\dotnettopostgres\\new folder\\dotnettopastgres\\dotnettopastgres\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF56B8C0-8182-4729-92D0-BCE5CF64BDF0}|dotNetToPastGres\\dotNetToPastGres.csproj|solutionrelative:dotnettopastgres\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF56B8C0-8182-4729-92D0-BCE5CF64BDF0}|dotNetToPastGres\\dotNetToPastGres.csproj|d:\\intern\\.net\\dotnettopostgres\\new folder\\dotnettopastgres\\dotnettopastgres\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF56B8C0-8182-4729-92D0-BCE5CF64BDF0}|dotNetToPastGres\\dotNetToPastGres.csproj|solutionrelative:dotnettopastgres\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF56B8C0-8182-4729-92D0-BCE5CF64BDF0}|dotNetToPastGres\\dotNetToPastGres.csproj|d:\\intern\\.net\\dotnettopostgres\\new folder\\dotnettopastgres\\dotnettopastgres\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF56B8C0-8182-4729-92D0-BCE5CF64BDF0}|dotNetToPastGres\\dotNetToPastGres.csproj|solutionrelative:dotnettopastgres\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF56B8C0-8182-4729-92D0-BCE5CF64BDF0}|dotNetToPastGres\\dotNetToPastGres.csproj|d:\\intern\\.net\\dotnettopostgres\\new folder\\dotnettopastgres\\dotnettopastgres\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF56B8C0-8182-4729-92D0-BCE5CF64BDF0}|dotNetToPastGres\\dotNetToPastGres.csproj|solutionrelative:dotnettopastgres\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF56B8C0-8182-4729-92D0-BCE5CF64BDF0}|dotNetToPastGres\\dotNetToPastGres.csproj|d:\\intern\\.net\\dotnettopostgres\\new folder\\dotnettopastgres\\dotnettopastgres\\data\\migrations\\20241120054048_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF56B8C0-8182-4729-92D0-BCE5CF64BDF0}|dotNetToPastGres\\dotNetToPastGres.csproj|solutionrelative:dotnettopastgres\\data\\migrations\\20241120054048_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF56B8C0-8182-4729-92D0-BCE5CF64BDF0}|dotNetToPastGres\\dotNetToPastGres.csproj|d:\\intern\\.net\\dotnettopostgres\\new folder\\dotnettopastgres\\dotnettopastgres\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF56B8C0-8182-4729-92D0-BCE5CF64BDF0}|dotNetToPastGres\\dotNetToPastGres.csproj|solutionrelative:dotnettopastgres\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF56B8C0-8182-4729-92D0-BCE5CF64BDF0}|dotNetToPastGres\\dotNetToPastGres.csproj|d:\\intern\\.net\\dotnettopostgres\\new folder\\dotnettopastgres\\dotnettopastgres\\contex\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF56B8C0-8182-4729-92D0-BCE5CF64BDF0}|dotNetToPastGres\\dotNetToPastGres.csproj|solutionrelative:dotnettopastgres\\contex\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF56B8C0-8182-4729-92D0-BCE5CF64BDF0}|dotNetToPastGres\\dotNetToPastGres.csproj|d:\\intern\\.net\\dotnettopostgres\\new folder\\dotnettopastgres\\dotnettopastgres\\dotnettopastgres.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CF56B8C0-8182-4729-92D0-BCE5CF64BDF0}|dotNetToPastGres\\dotNetToPastGres.csproj|solutionrelative:dotnettopastgres\\dotnettopastgres.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\INTERN\\.Net\\dotnetToPostgres\\New folder\\dotNetToPastGres\\dotNetToPastGres\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "dotNetToPastGres\\Views\\Students\\Create.cshtml",
+              "ToolTip": "D:\\INTERN\\.Net\\dotnetToPostgres\\New folder\\dotNetToPastGres\\dotNetToPastGres\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "dotNetToPastGres\\Views\\Students\\Create.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T07:57:33.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\INTERN\\.Net\\dotnetToPostgres\\New folder\\dotNetToPastGres\\dotNetToPastGres\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "dotNetToPastGres\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\INTERN\\.Net\\dotnetToPostgres\\New folder\\dotNetToPastGres\\dotNetToPastGres\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "dotNetToPastGres\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T06:11:36.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\INTERN\\.Net\\dotnetToPostgres\\New folder\\dotNetToPastGres\\dotNetToPastGres\\appsettings.json",
+              "RelativeDocumentMoniker": "dotNetToPastGres\\appsettings.json",
+              "ToolTip": "D:\\INTERN\\.Net\\dotnetToPostgres\\New folder\\dotNetToPastGres\\dotNetToPastGres\\appsettings.json",
+              "RelativeToolTip": "dotNetToPastGres\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T05:33:33.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\INTERN\\.Net\\dotnetToPostgres\\New folder\\dotNetToPastGres\\dotNetToPastGres\\Program.cs",
+              "RelativeDocumentMoniker": "dotNetToPastGres\\Program.cs",
+              "ToolTip": "D:\\INTERN\\.Net\\dotnetToPostgres\\New folder\\dotNetToPastGres\\dotNetToPastGres\\Program.cs",
+              "RelativeToolTip": "dotNetToPastGres\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:33:33.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\INTERN\\.Net\\dotnetToPostgres\\New folder\\dotNetToPastGres\\dotNetToPastGres\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "dotNetToPastGres\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\INTERN\\.Net\\dotnetToPostgres\\New folder\\dotNetToPastGres\\dotNetToPastGres\\Properties\\launchSettings.json",
+              "RelativeToolTip": "dotNetToPastGres\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T06:05:06.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241120054048_InitialMigration.cs",
+              "DocumentMoniker": "D:\\INTERN\\.Net\\dotnetToPostgres\\New folder\\dotNetToPastGres\\dotNetToPastGres\\Data\\Migrations\\20241120054048_InitialMigration.cs",
+              "RelativeDocumentMoniker": "dotNetToPastGres\\Data\\Migrations\\20241120054048_InitialMigration.cs",
+              "ToolTip": "D:\\INTERN\\.Net\\dotnetToPostgres\\New folder\\dotNetToPastGres\\dotNetToPastGres\\Data\\Migrations\\20241120054048_InitialMigration.cs",
+              "RelativeToolTip": "dotNetToPastGres\\Data\\Migrations\\20241120054048_InitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:40:48.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\INTERN\\.Net\\dotnetToPostgres\\New folder\\dotNetToPastGres\\dotNetToPastGres\\Contex\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "dotNetToPastGres\\Contex\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\INTERN\\.Net\\dotnetToPostgres\\New folder\\dotNetToPastGres\\dotNetToPastGres\\Contex\\ApplicationDbContext.cs",
+              "RelativeToolTip": "dotNetToPastGres\\Contex\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:33:32.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dotNetToPastGres",
+              "DocumentMoniker": "D:\\INTERN\\.Net\\dotnetToPostgres\\New folder\\dotNetToPastGres\\dotNetToPastGres\\dotNetToPastGres.csproj",
+              "RelativeDocumentMoniker": "dotNetToPastGres\\dotNetToPastGres.csproj",
+              "ToolTip": "D:\\INTERN\\.Net\\dotnetToPostgres\\New folder\\dotNetToPastGres\\dotNetToPastGres\\dotNetToPastGres.csproj",
+              "RelativeToolTip": "dotNetToPastGres\\dotNetToPastGres.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T05:33:32.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\INTERN\\.Net\\dotnetToPostgres\\New folder\\dotNetToPastGres\\dotNetToPastGres\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "dotNetToPastGres\\Models\\Student.cs",
+              "ToolTip": "D:\\INTERN\\.Net\\dotnetToPostgres\\New folder\\dotNetToPastGres\\dotNetToPastGres\\Models\\Student.cs",
+              "RelativeToolTip": "dotNetToPastGres\\Models\\Student.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:33:30.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
